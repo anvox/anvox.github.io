@@ -1,0 +1,33 @@
+title: anvox texting
+email: thien.an.vo.nguyen@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A collection of super short text to summary what I learnt everyday.
+domain: "anvox@github.io"
+baseurl: ""
+url: "https://anvox.github.io"
+github_username:  anvox
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
