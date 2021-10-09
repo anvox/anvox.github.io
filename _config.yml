@@ -8,7 +8,7 @@ url: "https://anvox.github.io"
 github_username:  anvox
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
