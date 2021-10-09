@@ -1,7 +1,7 @@
 title: anvox
 email: thien.an.vo.nguyen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of super short text to summary what I learnt everyday.
+  A collection of super short text to summarize what I learn everyday.
 domain: "anvox.github.io"
 baseurl: ""
 url: "https://anvox.github.io"
