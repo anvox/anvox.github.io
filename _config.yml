@@ -1,8 +1,8 @@
-title: anvox texting
+title: anvox
 email: thien.an.vo.nguyen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of super short text to summary what I learnt everyday.
-domain: "anvox@github.io"
+domain: "anvox.github.io"
 baseurl: ""
 url: "https://anvox.github.io"
 github_username:  anvox
