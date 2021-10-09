@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to Jekyll on Github Pages"
+date:   2021-10-09 12:33:00 +0700
+categories: welcome
+---
+
+Welcome to my my note colletion. I run this to make sure I have chance to revisit what I learnt and a centralized cheatsheet for myself.
+
+### Why Jekyll on Github Pages?
+
+It's free and own by myself. Second, it's less distracted and more intuitive for coder. 
