@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll on Github Pages"
-date:   2021-10-09 12:33:00 +0700
+date:   2021-10-08 12:33:00 +0700
 categories: welcome
 ---
 
