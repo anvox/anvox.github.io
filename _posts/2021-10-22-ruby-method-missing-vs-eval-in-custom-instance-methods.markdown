@@ -200,7 +200,7 @@ In real life, mostly, all attributes are called once or twice. So the benchmark#
 
 ## Hybrid solution
 
-At this time, I nearly stop have fund to submit PR with `missing_method` approach. While looking back the problem, I just thought as the system attributes belong to all profile, just define them in class, then if custom attributes are vary, let the `method_missing` handles - a hybrid approach. 
+At this time, I nearly stop have fun to submit the PR with `missing_method` approach. While looking back the problem, I just thought as the system attributes belong to all profile, just define them in class, then if custom attributes are vary, let the `method_missing` handles - a hybrid approach. 
 
 ```ruby
 class Dto3
