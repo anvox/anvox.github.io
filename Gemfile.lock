@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/anvox/jekyll-compose.git
+  revision: ae776344caa46d6f7b62cc3c7a57d9bc6b09b5d2
+  specs:
+    jekyll-compose (0.12.0)
+      jekyll (>= 3.7, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -129,8 +136,6 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
-    jekyll-compose (0.12.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
@@ -274,7 +279,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-compose
+  jekyll-compose!
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
