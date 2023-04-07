@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postgresql counting over
-date: 2023-04007 09:55 +0700
+date: 2023-04-07 09:55 +0700
 categories: elixir til match? pattern-matching
 ---
 
