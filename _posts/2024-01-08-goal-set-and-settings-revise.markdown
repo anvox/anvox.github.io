@@ -7,11 +7,11 @@ categories: personal-goal
 
 ## 2024 Goals
 
-1. 📚 Read and summarize 12 tech books.
-2. 🧮 Relearn calculus
+1. 🎄 Finish Code avent of 2024. I need to figure out what prepare in advance.12~~ 6 tech books.
+2. 📚 Read and summarize ~~
 3. ♾️ Relearn Probability and statistics
-4. 🎄 Finish Code avent of 2024. I need to figure out what prepare in advance.
-5. 🎰 Built a project in new language. In Rust or Zig, I prefer something supports webasm.
+4. 🧮 Relearn calculus
+5. 🎰 Built a project in new language. In Rust or Zig or Crystal, I prefer something supports webasm.
 6. 🏋️ Loose weight, to 75kg at the end of 2024.
 7. 📖 Read and summary 4 novels, in english.
 8. 🏆 Get a certificate of ML or Cloud Devops.
@@ -27,10 +27,10 @@ Why do we set goals? Why do we need to follow up?<br />
 Having goals is a good way to focus attention on the things that are important. It allows us to create a vision of how we would like our life to be. When we have a goal, we tend to increase the amount of time and effort we spend on an activity, and develop effective strategies to achieve that goal.
 
 **[WIP]** Answer why on each goal.<br />
-1. 📚
-2. 🧮
+1. 🎄
+2. 📚
 3. ♾️
-4. 🎄
+4. 🧮
 5. 🎰
 6. 🏋️
 7. 📖
