@@ -7,8 +7,8 @@ categories: personal-goal
 
 ## 2024 Goals
 
-1. 🎄 Finish Code avent of 2024. I need to figure out what prepare in advance.
-2. 📚 Read and summarize ~~12~~ 6 tech books.
+1. 🎄 Finish Code avent of 2023. I need to figure out what prepare in advance.
+2. 📚 Finish reading and summarize 6 tech books.
 3. ♾️ Relearn Probability and statistics
 4. 🧮 Relearn calculus
 5. 🎰 Built a project in new language. In Rust or Zig or Crystal, I prefer something supports webasm.
@@ -63,3 +63,4 @@ Get started with your **focus area**, look back last incompleted goals. Some que
 * What which role/position I want to be in next 1 year? 3 year?
 * What do I want to be celebrating in next 1 year?
 * On the road to achieve X, how close am I to the destination?
+* Follow up at https://github.com/anvox/anvox.github.io/issues/1
