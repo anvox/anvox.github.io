@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first custom elixir dataloader
-date: 2025-03-18 12:19 +0700
+date: 2025-03-18 22:19 +0700
 categories: elixir dataloader experiment til
 ---
 
