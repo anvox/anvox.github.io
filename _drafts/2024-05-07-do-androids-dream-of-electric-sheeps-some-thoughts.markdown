@@ -6,3 +6,4 @@ categories: reading
 ---
 
 Some thoughts after finishing "Do androids dream of electric sheep".
+I forget nearly all 🥲 Let's read it again
