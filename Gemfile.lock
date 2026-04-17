@@ -52,7 +52,7 @@ GEM
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
-    ffi (1.15.3)
+    ffi (1.17.4)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (218)
@@ -278,6 +278,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-25
   x86_64-darwin-20
 
 DEPENDENCIES
